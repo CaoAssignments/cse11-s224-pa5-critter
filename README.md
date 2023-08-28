@@ -33,7 +33,7 @@ Several classes in the starter code implement a graphical simulation of a 2D wor
 
 The Critter World is divided into cells with integer coordinates. The world is 60 cells wide and 50 cells tall by default. The upper-left cell has x-coordinates and y-coordinates (0, 0). The x-coordinate **increases to the right**. The y-coordinate **increases downwards**. 
 
-![](img/1.png)
+![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/f35f36da-e215-4bbb-af6e-dad7548609b5)
 
 **NOTE: the following mechanics are already implemented in the Critter simulator, e.g. when two critters fight, the simulator decides who wins based on what the attack each critter uses. Your task for this assignment is to define behaviors for each critter. i.e. you just need to write the methods but don't need to call them.**
 
@@ -53,7 +53,7 @@ The winning animal survives and the losing animal is removed from the game. Each
 
 The following table summarizes the choices and which animal will survive in each case. To remember which beats which, notice that the starting letters of "Roar, Pounce, Scratch" match those of "Rock, Paper, Scissors." If the animals make the same choice, the winner is chosen with a coin flip.
 
-![](img/2.png)
+![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/2239aa25-085b-4e6f-8f9d-3f0be4fa75d0)
 
 The cases above are based on the following rules:
 
@@ -96,7 +96,7 @@ Below is a diagram for the Critter World. Critter is an abstract class and you c
 
 Each class must extend Critter (or something else that extends Critter). 
 
-![](img/3.png)
+![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/6c6530db-df3a-4da1-a1c8-b22e1c44ef2c)
 
 ### Running the Simulator
 
@@ -106,11 +106,11 @@ We will now go through the process of running the simulator. First compile all t
 
 The following screen will appear. Enabling “Debug output” will print the actions your critters take to the terminal. You can also choose the number of critters that initially appear in the world, and select which critters that will start in the world.
 
-![](img/4.png)
+![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/cb2a478e-e9ea-4b98-96b0-c52dd053343b)
 
 You have many options in the next screen. You can start, stop, and adjust the speed of the simulation. “Speed” controls how fast each round occurs. For visual testing, you can click Tick, which will run one round of the simulation. If you would like to toggle debug messages on your terminal as your simulation runs, click the checkbox for “Debug”. 
 
-![](img/5.png)
+![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/2e8b1513-a33b-4de7-8e60-04257f6fa7ac)
 
 ### Implementation
 
