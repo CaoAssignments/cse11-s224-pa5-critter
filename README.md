@@ -1,6 +1,6 @@
-# CSE 11 Summer Session II 2023 PA5 - Critter and Inheritance
+# CSE 11 Summer Session I 2024 PA5 - Critter and Inheritance
 
-**Due date: Sunday, September 10 @11:59PM PDT**
+**Due date: Sunday, August 4 @11:59PM PDT**
 
 **Download the starter code from GitHub by clicking: Code $\rightarrow$ Download ZIP**
 
@@ -244,7 +244,7 @@ To offset the difficulty of defeating `Raccoon`, all the scenarios used in the a
 
 ## Submission & Grading
 
-Submit the following file to Gradescope by **Sunday, September 10 @ 11:59PM PDT**.
+Submit the following file to Gradescope by **Sunday, August 4 @ 11:59PM PDT**.
 
 * Starfish.java
 * Turtle.java
