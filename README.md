@@ -33,7 +33,7 @@ Several classes in the starter code implement a graphical simulation of a 2D wor
 
 The Critter World is divided into cells with integer coordinates. The world is 60 cells wide and 50 cells tall by default. The upper-left cell has x-coordinates and y-coordinates (0, 0). The x-coordinate **increases to the right**. The y-coordinate **increases downwards**. 
 
-![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/f35f36da-e215-4bbb-af6e-dad7548609b5)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/114690912/263814953-f35f36da-e215-4bbb-af6e-dad7548609b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240902T170951Z&X-Amz-Expires=300&X-Amz-Signature=51b850154c136ad1f2ccc9bdbdbadbbc239fad00d5019d1353c4deb07a67e120&X-Amz-SignedHeaders=host&actor_id=6855848&key_id=0&repo_id=684263966)
 
 **NOTE: the following mechanics are already implemented in the Critter simulator, e.g. when two critters fight, the simulator decides who wins based on what the attack each critter uses. Your task for this assignment is to define behaviors for each critter. i.e. you just need to write the methods but don't need to call them.**
 
