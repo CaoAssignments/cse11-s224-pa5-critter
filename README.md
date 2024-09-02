@@ -53,7 +53,7 @@ The winning animal survives and the losing animal is removed from the game. Each
 
 The following table summarizes the choices and which animal will survive in each case. To remember which beats which, notice that the starting letters of "Roar, Pounce, Scratch" match those of "Rock, Paper, Scissors." If the animals make the same choice, the winner is chosen with a coin flip.
 
-![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/2239aa25-085b-4e6f-8f9d-3f0be4fa75d0)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/114690912/263815013-2239aa25-085b-4e6f-8f9d-3f0be4fa75d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240902T171317Z&X-Amz-Expires=300&X-Amz-Signature=c896e6a65f3a233d54463abac7ac199c3fffa409911e22b46899533dce16b4d8&X-Amz-SignedHeaders=host&actor_id=6855848&key_id=0&repo_id=684263966)
 
 The cases above are based on the following rules:
 
@@ -96,7 +96,7 @@ Below is a diagram for the Critter World. Critter is an abstract class and you c
 
 Each class must extend Critter (or something else that extends Critter). 
 
-![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/6c6530db-df3a-4da1-a1c8-b22e1c44ef2c)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/114690912/263815111-6c6530db-df3a-4da1-a1c8-b22e1c44ef2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240902T171341Z&X-Amz-Expires=300&X-Amz-Signature=4c5c0df2a1ebe388e75b1dbc0968c127df76fcf32f065eaab71a24cd29ff5c74&X-Amz-SignedHeaders=host&actor_id=6855848&key_id=0&repo_id=684263966)
 
 ### Running the Simulator
 
@@ -106,11 +106,11 @@ We will now go through the process of running the simulator. First compile all t
 
 The following screen will appear. Enabling “Debug output” will print the actions your critters take to the terminal. You can also choose the number of critters that initially appear in the world, and select which critters that will start in the world.
 
-![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/cb2a478e-e9ea-4b98-96b0-c52dd053343b)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/114690912/263815146-cb2a478e-e9ea-4b98-96b0-c52dd053343b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240902T171411Z&X-Amz-Expires=300&X-Amz-Signature=aae027dcbb5ef846bcfdb5fef4e15a549ee62b18c82166a731f019060b1117c3&X-Amz-SignedHeaders=host&actor_id=6855848&key_id=0&repo_id=684263966)
 
 You have many options in the next screen. You can start, stop, and adjust the speed of the simulation. “Speed” controls how fast each round occurs. For visual testing, you can click Tick, which will run one round of the simulation. If you would like to toggle debug messages on your terminal as your simulation runs, click the checkbox for “Debug”. 
 
-![](https://github.com/CaoAssignments/cse11-s223-pa5-critter-starter/assets/114690912/2e8b1513-a33b-4de7-8e60-04257f6fa7ac)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/114690912/263815181-2e8b1513-a33b-4de7-8e60-04257f6fa7ac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240902T171423Z&X-Amz-Expires=300&X-Amz-Signature=2474e50ac86f963d1fab0452487fe32259a24778821b2e7c15ea022bd835f882&X-Amz-SignedHeaders=host&actor_id=6855848&key_id=0&repo_id=684263966)
 
 ### Implementation
 
